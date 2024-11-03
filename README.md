@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Muhammad Faiz</h2>
+<h1 align="center">Hi 👋, I'm Muhammad Faiz</h1>
 
 ###
 
@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">📫 How to reach me mfaiz2727@gmail.com</p>
+<p align="left">📫 How to reach me : mfaiz2727@gmail.com</p>
 
 ###
 
-<h3 align="left">Language</h3>
+<h2 align="left">Language</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">Framework</h3>
+<h2 align="left">Framework</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">Database</h3>
+<h2 align="left">Database</h2>
 
 ###
 
@@ -47,10 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lfznlfawkrlrf3zpfib7mouqwa)
 
 ###
 
@@ -64,6 +60,14 @@
   </a>
   <a href="https://www.instagram.com/empaiss_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31lfznlfawkrlrf3zpfib7mouqwa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lfznlfawkrlrf3zpfib7mouqwa&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
