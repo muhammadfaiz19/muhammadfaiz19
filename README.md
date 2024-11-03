@@ -24,6 +24,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfaiz19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h2 align="left">Framework</h2>
 
 ###
@@ -67,7 +73,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31lfznlfawkrlrf3zpfib7mouqwa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lfznlfawkrlrf3zpfib7mouqwa&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lfznlfawkrlrf3zpfib7mouqwa&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
