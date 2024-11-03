@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">A passionate frontend developer from Indonesia</h4>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 ###
 
