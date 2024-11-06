@@ -6,6 +6,8 @@
 
 ###
 
+<p align="left">🔭 I'm currently an Informatics Engineering student at Universitas Muhammadiyah Cirebon.</p>
+<p align="left">🌱 I'm currently learning Full-Stack Development with the MERN stack (MongoDB, Express, React, Node.js).</p>
 <p align="left">📫 How to reach me : mfaiz2727@gmail.com</p>
 
 ###
