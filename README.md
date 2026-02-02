@@ -1,63 +1,50 @@
-<h1 align="center">Hi 👋, I'm Muhammad Faiz</h1>
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&animation=fadeIn&color=gradient"/>
+</div>
+
+<h1 align="center">Hi, I'm Muhammad Faiz</h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Final-Year+Informatics+Engineering+Student;Web+Developer;" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Final-Year+Informatics+Engineering+Student;Web+Developer;" 
     alt="Typing SVG" 
   />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-b4d9d8c6-6f89-4f36-a2a2-6c8bffb3f87b.gif" width="600"/>
+  <img src="https://komarev.com/ghpvc/?username=muhammadfaiz19&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
+<br/>
 
-<h2 align="left">Languages</h2>
+## Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-</div>
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,php&theme=dark" />
+</p>
 
----
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,fastapi,laravel&theme=dark" />
+</p>
 
-<h2 align="left">Frameworks & Libraries</h2>
+### Databases & ORM
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,prisma&theme=dark" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40"/>
-</div>
+<br/>
 
----
+## GitHub Statistics
 
-<h2 align="left">Database</h2>
+<p align="center">
+  <img height="190" src="https://streak-stats.demolab.com?user=muhammadfaiz19&theme=radical&hide_border=true" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40"/>
-</div>
+<br/>
 
----
-
-<h2 align="left">GitHub Activity</h2>
+## Contribution Activity
 
 <p align="center">
   <img 
@@ -65,44 +52,9 @@
   />
 </p>
 
----
+<br/>
 
-<h2 align="left">Contribution Snake</h2>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/muhammadfaiz19/muhammadfaiz19/output/github-contribution-grid-snake.svg" 
-    alt="snake animation"
-  />
-</p>
-
----
-
-<h2 align="left">GitHub Metrics</h2>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/muhammadfaiz19/muhammadfaiz19/main/github-metrics.svg" 
-    alt="GitHub Metrics"
-  />
-</p>
-
----
-
-<h2 align="left">Connect with Me</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/muhammad-faiz-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"/>
-  </a>
-  <a href="https://www.instagram.com/empaiss_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52"/>
-  </a>
-</div>
-
----
-
-<h2 align="left">Spotify</h2>
+## Spotify – Recently Played
 
 <p align="center">
   <a href="https://open.spotify.com/user/31lfznlfawkrlrf3zpfib7mouqwa">
@@ -112,6 +64,21 @@
   </a>
 </p>
 
+<br/>
+
+## Connect With Me
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284091-4b8f16c3-7d42-4c0c-8b67-efea67c5b7f5.gif" width="600"/>
+  <a href="https://www.linkedin.com/in/muhammad-faiz-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/empaiss_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
+<br/>
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=fadeIn&color=gradient"/>
+</div>
